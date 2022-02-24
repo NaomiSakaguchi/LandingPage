@@ -42,7 +42,7 @@ header{
     font-weight: bold;
 }
 
-section.sobre{
+main.sobre{
     height: calc(100% - 300px);
     position: relative;
 }
