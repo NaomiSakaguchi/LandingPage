@@ -43,13 +43,13 @@ header{
 }
 
 section.sobre{
-    height: calc(100% - 200px);
+    height: calc(100% - 300px);
     position: relative;
 }
 
 .extras{
     position: absolute;
-    bottom: -450px;
+    bottom: -500px;
     right: -500px;
     width: 900px;
     height: 900px;
@@ -94,4 +94,15 @@ section.sobre{
     width: 110px;
     height: 35px;
     cursor: pointer;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    
+}
+
+.thumbnail{
+    height: 70px;
+    margin-right: 40px;
 }
